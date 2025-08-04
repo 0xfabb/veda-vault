@@ -1,0 +1,2 @@
+@openzeppelin/contracts/token=./node_modules/@openzeppelin/contracts/token
+@openzeppelin/contracts/access=./node_modules/@openzeppelin/contracts/access
