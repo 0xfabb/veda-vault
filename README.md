@@ -29,7 +29,7 @@ Here’s the exact assignment:
 
 ## What I Implemented
 
-![Architecture](https://github.com/0xfabb/veda-vault/tree/main/src/images/architecture.png)
+![Architecture](https://raw.githubusercontent.com/0xfabb/veda-vault/refs/heads/main/src/images/architecture.png)
 
 ### Vault Strategy (On-Chain)
 
