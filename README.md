@@ -29,7 +29,7 @@ Here’s the exact assignment:
 
 ## What I Implemented
 
-![Architecture](https://raw.githubusercontent.com/0xfabb/veda-vault/refs/heads/main/src/images/architecture.png)
+![Architecture](https://raw.githubusercontent.com/0xfabb/veda-vault/refs/heads/main/src/images/Architecture.png)
 
 ### Vault Strategy (On-Chain)
 
@@ -118,7 +118,7 @@ To keep everything smooth, the off-chain components do:
 
 ---
 
-## What is finished so far 
+## What is finished so far
 
 Here’s what’s fully working and tested:
 
